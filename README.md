@@ -1,0 +1,2 @@
+# LearningGit
+Practicing git operations
